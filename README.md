@@ -1,6 +1,9 @@
 # Ex 8: sqlinjection
 Exploiting SQL Injection vulnerability
-
+```
+Name: Prabha C
+Register no:212222110032
+```
 # AIM:
 To exploit SQL Injection vulnerability using Multidae web application in Metasploitable2
 
